@@ -9,3 +9,5 @@ P
  contracts/resource-tracking.clar,c/3/c35b5df7934ecc70345f9d5efca4a2ef85651d61
 X
 (contracts/distribution-verification.clar,1/1/11ef085d3aa38f033e4ad6c7c85a6496e07a9b3e
+O
+contracts/impact-assesment.clar,2/8/2847666b20b4dc89a465aa57cad3b6a87a492f5b

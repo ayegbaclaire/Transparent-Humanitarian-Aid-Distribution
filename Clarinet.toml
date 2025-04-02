@@ -10,6 +10,11 @@ path = 'contracts/distribution-verification.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.impact-assesment]
+path = 'contracts/impact-assesment.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.receipient-verification]
 path = 'contracts/receipient-verification.clar'
 clarity_version = 2
