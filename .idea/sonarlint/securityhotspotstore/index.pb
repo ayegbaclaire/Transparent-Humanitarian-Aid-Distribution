@@ -7,3 +7,5 @@ U
 %tests/receipient-verification.test.ts,2/6/26d7e93f01eaaeefb392c366030486e70ce99338
 P
  contracts/resource-tracking.clar,c/3/c35b5df7934ecc70345f9d5efca4a2ef85651d61
+X
+(contracts/distribution-verification.clar,1/1/11ef085d3aa38f033e4ad6c7c85a6496e07a9b3e
